@@ -1,1 +1,1 @@
-# mi primer proyecto cursoo
+# mi primer proyecto curso
